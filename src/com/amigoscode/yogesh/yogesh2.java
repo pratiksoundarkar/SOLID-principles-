@@ -1,4 +1,5 @@
 package com.amigoscode.yogesh;
 
-public class Yogesh {
+public class yogesh2 {
+
 }
